@@ -2,8 +2,8 @@
 
 🎓 Recent graduate in Software Engineering from FPT University  
 💻 Passionate about Web & Game Development  
-🎮 Creator of [Geotycoon](https://github.com/your-repo-link) — an educational Monopoly-style game about Vietnam's geography  
-👥 Social App [Miao](https://github.com/your-repo-link) - A modern social networking platform for connecting and sharing with friends
+🎮 Creator of [Geotycoon](https://github.com/KhanhTuong3002/KhoaLuanTotNghiepGE024) — an educational Monopoly-style game about Vietnam's geography  
+👥 Social App [Miao](https://github.com/KhanhTuong3002/social_app) - A modern social networking platform for connecting and sharing with friends
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### 👥 Social App
 > A modern social networking platform for connecting and sharing with friends
->🔹 ASP.NET Core MVC | Entity Framework | SQL Server
+> 🔹 ASP.NET Core MVC | Entity Framework | SQL Server
 
 **Key Features:**
 - Create and manage user profiles
@@ -46,5 +46,5 @@ This project demonstrates my skills in full-stack web development, clean archite
 
 ---
 
-> “The best way to learn is by building.” — Vo Khanh Tuong
+
 
