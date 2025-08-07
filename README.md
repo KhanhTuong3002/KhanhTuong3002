@@ -3,6 +3,7 @@
 🎓 Recent graduate in Software Engineering from FPT University  
 💻 Passionate about Web & Game Development  
 🎮 Creator of [Geotycoon](https://github.com/your-repo-link) — an educational Monopoly-style game about Vietnam's geography  
+👥 Social App [Miao](https://github.com/your-repo-link) - A modern social networking platform for connecting and sharing with friends
 
 ---
 
@@ -11,9 +12,9 @@
 - 🌐 Frontend: HTML, CSS, JavaScript, React
 - 🖥️ Backend: C#, ASP.NET, Java, Node.js
 - 🎮 Game Development: Unity, C#
-- 💾 Databases: SQL Server, MySQL, Firebase
-- 🧪 Testing: Postman, Selenium (Basic), Manual Testing
-- 🛠️ Tools: Git, GitHub, Figma, Trello
+- 💾 Databases: SQL Server
+- 🧪 Testing: Postman, Manual Testing
+- 🛠️ Tools: Git, GitHub, Figma
 
 
 ## 📌 Featured Projects
@@ -24,8 +25,19 @@
 
 ### 📝 [Quiz Platform](https://github.com/your-quiz-repo)
 > Web app to create and manage quizzes for students  
-> 🔹 React | Node.js | MongoDB
+> 🔹 React | Node.js | SQL Sever
 
+### 👥 Social App
+> A modern social networking platform for connecting and sharing with friends
+>🔹 ASP.NET Core MVC | Entity Framework | SQL Server
+
+**Key Features:**
+- Create and manage user profiles
+- Post and view content
+- Friend request system (send, accept, remove)\
+- Real-time notifications for social interactions
+
+This project demonstrates my skills in full-stack web development, clean architecture, and user-centered design.
 ---
 
 ## 📫 Let's Connect!
